@@ -1,0 +1,21 @@
+.tebzebi{
+  border: 1px solid black;
+  width: 15%;
+  padding: 10px;
+  align-items:center;
+  flex-grow: 1;
+ 
+  
+  
+  
+  
+
+}
+
+.akula{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items:center;
+  
+}
